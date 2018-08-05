@@ -41,8 +41,25 @@ Application is still under contruction, below is a list of features of the app
 
 ## Install dependencies
 
-`npm install <dependency name">.
+``` npm install <dependency name> ```
 
+## Built with 
+# Front End
+- [Bootstrap](https://getbootstrap.com/)
+- [ejs](http://ejs.co/)
+
+# Back End 
+- [express](https://expressjs.com/)
+- [express-session](https://www.npmjs.com/package/express-session)
+- [mongoose](http://mongoosejs.com/)
+- [passport](http://www.passportjs.org/)
+- [passport-local](http://www.passportjs.org/)
+- [method-override](https://www.npmjs.com/package/method-override)
+- [connect-flash](https://www.npmjs.com/package/connect-flash-plus)
+
+# Platforms
+- cloud9
+- Heroku
 
 
 
