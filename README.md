@@ -4,7 +4,7 @@ A Node.js web application project from the Udemy course - [The Web Developer Boo
 
 ## Deployed using Heroku and mlabs
 
-To see the live demo click [here](https://www.udemy.com/the-web-developer-bootcamp/)
+[To see the live demo click here](https://yelpcampbypalash.herokuapp.com)
 
 Application is still under contruction, below is a list of features of the app
 
