@@ -37,6 +37,12 @@ Application is still under contruction, below is a list of features of the app
 
 ## Clone this repository
 
+`https://github.com/Palashx/YelpCamp.git`
+
+## Install dependencies
+
+`npm install <dependency name">.
+
 
 
 
